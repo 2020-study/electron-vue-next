@@ -1,10 +1,9 @@
-
 /**
  * @type {import('electron-builder').Configuration}
  */
 const config = {
-  productName: '',
-  appId: '',
+  productName: 'bbfs-dp',
+  appId: 'org.bfchain.bbfs',
   directories: {
     output: 'build'
   },

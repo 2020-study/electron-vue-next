@@ -1,8 +1,8 @@
 {
-  "name": "electron-vue-next",
+  "name": "bbfs-dp",
   "version": "0.0.0",
   "private": true,
-  "description": "",
+  "description": "Biological BlockChain Forest System Develop Platform",
   "main": "./dist/electron/index.prod.js",
   "scripts": {
     "dev": "node scripts/dev.js",
@@ -13,7 +13,7 @@
     "lint": "eslint --ext .ts,.vue src",
     "lint:fix": "eslint --ext .ts,.vue src --fix src"
   },
-  "author": "",
+  "author": "BFS Core Team",
   "license": "MIT",
   "dependencies": {
     "vue": "^3.0.0-rc.10",
